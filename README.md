@@ -1,3 +1,7 @@
+## DFD
+
+![DFD Batallas Romanas](/BatallaRomanaConInterfaz.png)
+
 ## Dinámica General
 El juego es de batallas entre ejércitos, para dos jugadores. Toda la mecánica del juego está
 organizada por turnos.
